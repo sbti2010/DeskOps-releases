@@ -1,11 +1,11 @@
 {
-  "version": "1.0.20",
-  "notes": "## DeskOps v1.0.20 \u8e42\u5bc3??\u044b\ube46\r\n\r\n- release v1.0.19\r\n- release v1.0.18\r\n- release v1.0.17\r\n- release v1.0.16\r\n- release v1.0.15\r\n- Update latest.json\r\n- chore: update latest.json for v1.0.18 [skip ci]\r\n- chore: update latest.json for v1.0.14 [skip ci]",
-  "pub_date": "2026-05-30T03:52:44Z",
+  "version": "1.0.21",
+  "notes": "## DeskOps v1.0.21 \u8e42\u5bc3??\u044b\ube46\r\n\r\n- Bug fixes and performance improvements",
+  "pub_date": "2026-05-30T05:02:30Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmh4N0FsTXc2RVZTTXdYMjFtN0Nna2Y2dzh4OStsTlhtV25JekVhOHppcWxlQ2FETDJsRUVmendJRjVaUkdRaEVNVUpwbG5SWG9FYmRxVlJJZU9UWVkxQ2ljSllURFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTEzMTY0CWZpbGU6RGVza09wc18xLjAuMjBfeDY0LXNldHVwLmV4ZS56aXAKdVNNUUVSM2hhZkdVYStmYm9vN0pRYlM2dmJIR3Y1b1RWVmZSaWdmK3RzQ1JVMkpXNHVEd0V1UUtSSWFxZU1zSnI1ZjFCcmNRSnBpNkNLdmlXZnFwRFE9PQo=",
-      "url": "https://github.com/sbti2010/DeskOps-releases/releases/download/v1.0.20/DeskOps_1.0.20_x64-setup.exe.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmh4N0FsTXc2RWJ3QUMxS1lpZG9Lb2FvY1RvVkJzNzdHZVdsaXBEVTdIY3cxY3llUDRlTktlbHRpa29TV0tjLzFkRldkbGFkSnVWWkg2ZHpycEQwTGg0VlVMTXIvaWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTE3MzUwCWZpbGU6RGVza09wc18xLjAuMjFfeDY0LXNldHVwLmV4ZS56aXAKcWdxaWtHTW91alVrK083RlU5YVNCaU11NStUaXBiRWV2VmZNaWFWTnFrOHQ1UzJCREtBeFNKNzQyVkl0amozL2xXeXRCNHNmQ2l0YXRhT1JILzdMQ1E9PQo=",
+      "url": "https://github.com/sbti2010/DeskOps-releases/releases/download/v1.0.21/DeskOps_1.0.21_x64-setup.exe.zip"
     }
   }
 }
