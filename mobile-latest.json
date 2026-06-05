@@ -1,9 +1,9 @@
 {
-    "nativeVersion":  "1.0.1",
-    "nativeVersionCode":  2,
+    "nativeVersion":  "1.0.2",
+    "nativeVersionCode":  3,
     "minVersionCode":  1,
-    "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.1/deskops-mobile.apk",
-    "apkSha256":  "ec5a5a0747a2bd861cff2b38c85acc2e1b805b0462d1f32a11e7af5d4a2ed143",
+    "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.2/deskops-mobile.apk",
+    "apkSha256":  "83d2c5781a664774dce40aa0656bfa410f09edfc75095927c0a0098bd1d4e192",
     "notes":  "- 버그 수정 및 개선",
-    "pubDate":  "2026-06-05T16:06:46Z"
+    "pubDate":  "2026-06-05T16:15:56Z"
 }
