@@ -1,15 +1,15 @@
 {
-    "nativeVersion":  "1.0.7",
-    "nativeVersionCode":  8,
+    "nativeVersion":  "1.0.8",
+    "nativeVersionCode":  9,
     "minVersionCode":  1,
-    "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.7/deskops-mobile.apk",
-    "apkSha256":  "79c0ad953de896add9c1814734f72a015450790e042319949c4c4305355c8d5a",
-    "notes":  "- 버그 수정 및 개선",
-    "pubDate":  "2026-06-07T05:53:24Z",
+    "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.8/deskops-mobile.apk",
+    "apkSha256":  "c7310f80601a051a488e4e3fa8eff7706d41c292948d8b8316df49c9e4b5ccf0",
+    "notes":  "시스템 뒤로(제스처/버튼)로 화면 뒤로가기 지원",
+    "pubDate":  "2026-06-07T05:59:46Z",
     "web":  {
-                "bundleId":  "8.2",
-                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.7/web-bundle-8.2.zip",
-                "sha256":  "c7adf7db1470d0d3cbd705429676af4aca2471bf8b7bb38439e70bdd4e850477",
-                "minNativeVersionCode":  8
+                "bundleId":  "9.0",
+                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.8/web-bundle-9.0.zip",
+                "sha256":  "a321e0d75a04880ed0b8dac9e7f6877a460ada6464e35f267fcf97fac10b21c9",
+                "minNativeVersionCode":  9
             }
 }
