@@ -5,11 +5,11 @@
     "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.6/deskops-mobile.apk",
     "apkSha256":  "e4470ecb669777d76d35d81c5ce362aa7f0051e51348d1bc356453ff18178309",
     "notes":  "- 버그 수정 및 개선",
-    "pubDate":  "2026-06-07T05:01:41Z",
+    "pubDate":  "2026-06-07T05:18:57Z",
     "web":  {
-                "bundleId":  "7.4",
-                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.6/web-bundle-7.4.zip",
-                "sha256":  "782d9558142da924c182ee275a7113c53c2270cdf1c88b1b476b85a0b1d2d846",
+                "bundleId":  "7.5",
+                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.6/web-bundle-7.5.zip",
+                "sha256":  "8ec290b45175852a5547fbb50936ea3d0256f756018cf212d61b59a6e898250d",
                 "minNativeVersionCode":  7
             }
 }
