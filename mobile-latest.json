@@ -1,15 +1,15 @@
 {
-    "nativeVersion":  "1.0.8",
-    "nativeVersionCode":  9,
+    "nativeVersion":  "1.0.9",
+    "nativeVersionCode":  10,
     "minVersionCode":  1,
-    "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.8/deskops-mobile.apk",
-    "apkSha256":  "c7310f80601a051a488e4e3fa8eff7706d41c292948d8b8316df49c9e4b5ccf0",
-    "notes":  "- 버그 수정 및 개선",
-    "pubDate":  "2026-06-07T08:27:39Z",
+    "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.9/deskops-mobile.apk",
+    "apkSha256":  "a956196842cb7e73cde3db138bb158af714e9982669bbb4894cec92757b8d910",
+    "notes":  "- ?곕씫泥? ?대????곕씫泥섏뿉??媛?몄삤湲?異붽?\n- ?곕씫泥? ?쒕룞 ?대젰(硫붾え/?듯솕/誘명똿/硫붿씪) 異붽?\n- ?곕씫泥? ?대????듯솕쨌臾몄옄 ?댁뿭???쒕룞 ?대젰?쇰줈 媛?몄삤湲?異붽?",
+    "pubDate":  "2026-06-07T09:16:58Z",
     "web":  {
-                "bundleId":  "9.4",
-                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.8/web-bundle-9.4.zip",
-                "sha256":  "283869c08f7af0fa775f32f15c5c6d24c86538909c95cee517bbf18ad00dbde8",
-                "minNativeVersionCode":  9
+                "bundleId":  "10.0",
+                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.9/web-bundle-10.0.zip",
+                "sha256":  "1fe127f1c3b62cbd5d414701961c2a3c2f69181b88720211612b619ebfc1487e",
+                "minNativeVersionCode":  10
             }
 }
