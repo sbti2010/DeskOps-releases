@@ -1,15 +1,15 @@
 {
-    "nativeVersion":  "1.0.9",
-    "nativeVersionCode":  10,
+    "nativeVersion":  "1.0.10",
+    "nativeVersionCode":  11,
     "minVersionCode":  1,
-    "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.9/deskops-mobile.apk",
-    "apkSha256":  "a956196842cb7e73cde3db138bb158af714e9982669bbb4894cec92757b8d910",
-    "notes":  "- 연락처: 휴대폰 연락처에서 가져오기 추가\n- 연락처: 활동 이력(메모/통화/미팅/메일) 추가\n- 연락처: 휴대폰 통화·문자 내역을 활동 이력으로 가져오기 추가",
-    "pubDate":  "2026-06-07T09:16:58Z",
+    "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.10/deskops-mobile.apk",
+    "apkSha256":  "7c86631a01aa34fcdae9c1b847c4ee61ac849e0b14af2da0d33efdf428e87ba7",
+    "notes":  "- 통화·문자 내역 가져오기 오류 수정 (Android 11+ 호환)",
+    "pubDate":  "2026-06-07T09:30:10Z",
     "web":  {
-                "bundleId":  "10.0",
-                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.9/web-bundle-10.0.zip",
-                "sha256":  "1fe127f1c3b62cbd5d414701961c2a3c2f69181b88720211612b619ebfc1487e",
-                "minNativeVersionCode":  10
+                "bundleId":  "11.0",
+                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.10/web-bundle-11.0.zip",
+                "sha256":  "944ebae9221ed67d37b4ebf4f5cbed5fd8a2eaa1b09c87bf0a7d3c919ce44afd",
+                "minNativeVersionCode":  11
             }
 }
