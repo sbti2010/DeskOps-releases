@@ -4,12 +4,12 @@
     "minVersionCode":  1,
     "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.6/deskops-mobile.apk",
     "apkSha256":  "e4470ecb669777d76d35d81c5ce362aa7f0051e51348d1bc356453ff18178309",
-    "notes":  "홈화면 아이콘을 PC 버전 디자인으로 변경 (어두운 배경 적용)",
-    "pubDate":  "2026-06-07T03:42:55Z",
+    "notes":  "- 버그 수정 및 개선",
+    "pubDate":  "2026-06-07T03:53:28Z",
     "web":  {
-                "bundleId":  "7.0",
-                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.6/web-bundle-7.0.zip",
-                "sha256":  "49484a1078b59b13cd0d7e61fc3c8d28a6c3574e7ac93dc0956193077d812d45",
+                "bundleId":  "7.1",
+                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.6/web-bundle-7.1.zip",
+                "sha256":  "a4c35301ef64676590003a49542b446adafd6b618d6b8ea5c7cf7d1278c62f24",
                 "minNativeVersionCode":  7
             }
 }
