@@ -1,11 +1,11 @@
 {
-  "version": "1.0.83",
-  "notes": "## DeskOps v1.0.83 \u8e42\u5bc3??\u044b\ube46\r\n\r\n- Bug fixes and performance improvements",
-  "pub_date": "2026-06-07T05:15:35Z",
+  "version": "1.0.84",
+  "notes": "## DeskOps v1.0.84 \u8e42\u5bc3??\u044b\ube46\r\n\r\n- Bug fixes and performance improvements",
+  "pub_date": "2026-06-07T06:52:27Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmh4N0FsTXc2RWVKUC90RjRGSDhiamUyWnk1VjhqSHNrN0ZUWWJGcGhyeEhmRS9SODRWWndhS0ZHblFHZmVFRzNZWVFlTE1sOU1CSEI3RlBGTGwrZGNELy83YlNmb1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODA5MzMzCWZpbGU6RGVza09wc18xLjAuODNfeDY0LXNldHVwLmV4ZQpEY3pIZ3ptVlhURW4xdWxwZytTVnRkSFVPWU9CS2JrdUpIWllQS0xRUHp6Y3g4ZGw1bkRPMUplYUpEeFBZUmQvZXJPcmprY1BMZjdDcWl4NHBrSDhDdz09Cg==",
-      "url": "https://github.com/sbti2010/DeskOps-releases/releases/download/v1.0.83/DeskOps_1.0.83_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmh4N0FsTXc2RVJPWGxYbTdoYUdlRjU5UjdpTFpsYWZwbXpwZUc2aDk4OE95dnVybjlITTM1MlpzVFdtVXlkMVMvbmZOME1Ra1JBTFk2eE42Qm5rU2YvMTQ4WjNMakFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODE1MTQ1CWZpbGU6RGVza09wc18xLjAuODRfeDY0LXNldHVwLmV4ZQp1dUtnQVJaYU5lOGxXaEtmYmVoaHBzenNidkFVR1ZtaUFIY2Qvc3hiaGJwSlA3aTVUZk8vTEcyTXNERHlQekpvQ0JRZ1ZPYXdzRW9EMGprcmZGQWRCUT09Cg==",
+      "url": "https://github.com/sbti2010/DeskOps-releases/releases/download/v1.0.84/DeskOps_1.0.84_x64-setup.exe"
     }
   }
 }
