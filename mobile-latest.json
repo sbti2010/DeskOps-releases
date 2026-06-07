@@ -1,15 +1,15 @@
 {
-    "nativeVersion":  "1.0.10",
-    "nativeVersionCode":  11,
+    "nativeVersion":  "1.0.11",
+    "nativeVersionCode":  12,
     "minVersionCode":  1,
-    "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.10/deskops-mobile.apk",
-    "apkSha256":  "7c86631a01aa34fcdae9c1b847c4ee61ac849e0b14af2da0d33efdf428e87ba7",
-    "notes":  "- 통화·문자 내역 가져오기 오류 수정 (Android 11+ 호환)",
-    "pubDate":  "2026-06-07T09:30:10Z",
+    "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.11/deskops-mobile.apk",
+    "apkSha256":  "df981207f07cf4f30aee75a5d649ce3288b58afb2d151c9ff9051407b5b4fd8f",
+    "notes":  "- 연락처 가져오기 권한 오류 수정 (삼성 등 단말 호환, READ_CONTACTS 정식 요청)",
+    "pubDate":  "2026-06-07T09:36:53Z",
     "web":  {
-                "bundleId":  "11.0",
-                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.10/web-bundle-11.0.zip",
-                "sha256":  "944ebae9221ed67d37b4ebf4f5cbed5fd8a2eaa1b09c87bf0a7d3c919ce44afd",
-                "minNativeVersionCode":  11
+                "bundleId":  "12.0",
+                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.11/web-bundle-12.0.zip",
+                "sha256":  "019b5523168ca98f678d7348f6bf43529de229207405a53f2005ef221eb26e56",
+                "minNativeVersionCode":  12
             }
 }
