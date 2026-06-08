@@ -4,12 +4,12 @@
     "minVersionCode":  1,
     "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.11/deskops-mobile.apk",
     "apkSha256":  "df981207f07cf4f30aee75a5d649ce3288b58afb2d151c9ff9051407b5b4fd8f",
-    "notes":  "모바일 네트워크/기술노트 리스트 화면 고정 및 스크롤 개선",
-    "pubDate":  "2026-06-08T14:35:59Z",
+    "notes":  "모바일 리스트 아이템 flexShrink 찌그러짐 현상 핫픽스",
+    "pubDate":  "2026-06-08T14:38:35Z",
     "web":  {
-                "bundleId":  "12.10",
-                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.11/web-bundle-12.10.zip",
-                "sha256":  "030428b2f2653a0710e74a13da0e7da24d5681928cc93210d03c7d3d8359952c",
+                "bundleId":  "12.11",
+                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.11/web-bundle-12.11.zip",
+                "sha256":  "e11ea6acb1c0c72e2073da5c4b41391f49caeeed14d087973df6ea9b0649f1a2",
                 "minNativeVersionCode":  12
             }
 }
