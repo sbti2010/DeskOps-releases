@@ -4,12 +4,12 @@
     "minVersionCode":  1,
     "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.11/deskops-mobile.apk",
     "apkSha256":  "df981207f07cf4f30aee75a5d649ce3288b58afb2d151c9ff9051407b5b4fd8f",
-    "notes":  "업무 작성/수정 화면 스크롤 문제 해결 (listContainer 분리)",
-    "pubDate":  "2026-06-08T14:29:09Z",
+    "notes":  "모바일 업무보드 리스트 헤더 겹침 버그 수정",
+    "pubDate":  "2026-06-08T14:31:24Z",
     "web":  {
-                "bundleId":  "12.7",
-                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.11/web-bundle-12.7.zip",
-                "sha256":  "5dda6563c32ed47f62424f72e72f2f9c92fa3b4f65b0328550c029d7299198df",
+                "bundleId":  "12.8",
+                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.11/web-bundle-12.8.zip",
+                "sha256":  "8775b3c1d8983effcf49f84a4970916651f6a6bbe436cbe4363e54102de6c291",
                 "minNativeVersionCode":  12
             }
 }
