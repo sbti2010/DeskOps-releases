@@ -4,12 +4,12 @@
     "minVersionCode":  1,
     "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.11/deskops-mobile.apk",
     "apkSha256":  "df981207f07cf4f30aee75a5d649ce3288b58afb2d151c9ff9051407b5b4fd8f",
-    "notes":  "모바일 리스트 아이템 flexShrink 찌그러짐 현상 핫픽스",
-    "pubDate":  "2026-06-08T14:38:35Z",
+    "notes":  "모바일 회의록 고정 스크롤 적용, AI 녹음기 상단 고정 및 녹음 시간 폰트 확대",
+    "pubDate":  "2026-06-08T14:42:30Z",
     "web":  {
-                "bundleId":  "12.11",
-                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.11/web-bundle-12.11.zip",
-                "sha256":  "e11ea6acb1c0c72e2073da5c4b41391f49caeeed14d087973df6ea9b0649f1a2",
+                "bundleId":  "12.12",
+                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.11/web-bundle-12.12.zip",
+                "sha256":  "0fb633b7256b097612319a8e52f565513fbe963f01ee7c142a064e5c9d62fc35",
                 "minNativeVersionCode":  12
             }
 }
