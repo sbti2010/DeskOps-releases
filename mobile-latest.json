@@ -4,12 +4,12 @@
     "minVersionCode":  1,
     "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.11/deskops-mobile.apk",
     "apkSha256":  "df981207f07cf4f30aee75a5d649ce3288b58afb2d151c9ff9051407b5b4fd8f",
-    "notes":  "- 버그 수정 및 개선",
-    "pubDate":  "2026-06-08T14:18:52Z",
+    "notes":  "모바일 업무보드 리스트의 상단 필터조건 고정 및 리스트 영역 내부 스크롤 적용",
+    "pubDate":  "2026-06-08T14:26:03Z",
     "web":  {
-                "bundleId":  "12.5",
-                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.11/web-bundle-12.5.zip",
-                "sha256":  "7943dfe4b4965a459825e87017f64edb378db6f7fffc958a3586ae8316707175",
+                "bundleId":  "12.6",
+                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.11/web-bundle-12.6.zip",
+                "sha256":  "27037336cca2258b2c9a87fed877d64e63cba53dce80b0bc933ba1ed389992f8",
                 "minNativeVersionCode":  12
             }
 }
