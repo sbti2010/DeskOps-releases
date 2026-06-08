@@ -4,12 +4,12 @@
     "minVersionCode":  1,
     "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.11/deskops-mobile.apk",
     "apkSha256":  "df981207f07cf4f30aee75a5d649ce3288b58afb2d151c9ff9051407b5b4fd8f",
-    "notes":  "모바일 메모/연락처 리스트 화면 고정 및 스크롤 개선",
-    "pubDate":  "2026-06-08T14:34:13Z",
+    "notes":  "모바일 네트워크/기술노트 리스트 화면 고정 및 스크롤 개선",
+    "pubDate":  "2026-06-08T14:35:59Z",
     "web":  {
-                "bundleId":  "12.9",
-                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.11/web-bundle-12.9.zip",
-                "sha256":  "b17cb520ac682f707e4c1ab89eead9af8dd29e1094883ef0e29a4e9e5178236f",
+                "bundleId":  "12.10",
+                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.11/web-bundle-12.10.zip",
+                "sha256":  "030428b2f2653a0710e74a13da0e7da24d5681928cc93210d03c7d3d8359952c",
                 "minNativeVersionCode":  12
             }
 }
