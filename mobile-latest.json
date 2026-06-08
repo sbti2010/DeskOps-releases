@@ -4,12 +4,12 @@
     "minVersionCode":  1,
     "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.11/deskops-mobile.apk",
     "apkSha256":  "df981207f07cf4f30aee75a5d649ce3288b58afb2d151c9ff9051407b5b4fd8f",
-    "notes":  "모바일 회의록 고정 스크롤 적용, AI 녹음기 상단 고정 및 녹음 시간 폰트 확대",
-    "pubDate":  "2026-06-08T14:42:30Z",
+    "notes":  "모바일 메인 화면 회의록/집중타이머/관심코인 폰트 크기 증가",
+    "pubDate":  "2026-06-08T14:53:32Z",
     "web":  {
-                "bundleId":  "12.12",
-                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.11/web-bundle-12.12.zip",
-                "sha256":  "0fb633b7256b097612319a8e52f565513fbe963f01ee7c142a064e5c9d62fc35",
+                "bundleId":  "12.13",
+                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.11/web-bundle-12.13.zip",
+                "sha256":  "94b8c036a3cdfa0202e3019189be64f76c1d59974c5c5d677aa88142aa26be44",
                 "minNativeVersionCode":  12
             }
 }
