@@ -4,12 +4,12 @@
     "minVersionCode":  1,
     "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.11/deskops-mobile.apk",
     "apkSha256":  "df981207f07cf4f30aee75a5d649ce3288b58afb2d151c9ff9051407b5b4fd8f",
-    "notes":  "모바일 메인 화면 회의록/집중타이머/관심코인 폰트 크기 증가",
-    "pubDate":  "2026-06-08T14:53:32Z",
+    "notes":  "- 버그 수정 및 개선",
+    "pubDate":  "2026-06-09T10:37:02Z",
     "web":  {
-                "bundleId":  "12.13",
-                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.11/web-bundle-12.13.zip",
-                "sha256":  "94b8c036a3cdfa0202e3019189be64f76c1d59974c5c5d677aa88142aa26be44",
+                "bundleId":  "12.14",
+                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.11/web-bundle-12.14.zip",
+                "sha256":  "ab12dbd33d1d11c3065e43565af2a6403790d2d647763f6b525d1293838a7ea0",
                 "minNativeVersionCode":  12
             }
 }
