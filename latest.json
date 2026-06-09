@@ -1,11 +1,11 @@
 {
-  "version": "1.1.3",
-  "notes": "## DeskOps v1.1.3 \ubcc0\uacbd \uc0ac\ud56d\r\n\r\n- \ubc84\uadf8 \uc218\uc815 \ubc0f \uc131\ub2a5 \uac1c\uc120",
-  "pub_date": "2026-06-09T10:42:45Z",
+  "version": "1.1.4",
+  "notes": "## DeskOps v1.1.4 \ubcc0\uacbd \uc0ac\ud56d\r\n\r\n- \ubc84\uadf8 \uc218\uc815 \ubc0f \uc131\ub2a5 \uac1c\uc120",
+  "pub_date": "2026-06-09T11:21:02Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmh4N0FsTXc2RWNKK2hPamJZeXp5WkZtRlFxMi9YY01qcVE4UW5DZGYyTmQyOC90aHVtWE53SGxvalYvKzR3UGV2OTAvN1lDeElacEZhNFFxWSsrcXV3SW4wZHMwNHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDAxNzYzCWZpbGU6RGVza09wc18xLjEuM194NjQtc2V0dXAuZXhlCmwzaUlhb05kQXlrWW9kQUVrTlhjeitSaWh0ZkxwL21vTnRvTVB0R0t1WUhUWlZ6ZDc0cHdDaW5mZFhjRGNuZWZiRThrZmpKbURZV05PcGhZckFXZkJnPT0K",
-      "url": "https://github.com/sbti2010/DeskOps-releases/releases/download/v1.1.3/DeskOps_1.1.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmh4N0FsTXc2RVhycnBCbWtRalhNYmEvbmdYWlp1cXRmcDBHNXVDaS9uVFdrT0lPaGgwMTBSQ0JwYlc0aWZ4SlpSdHlxemQrRXhHMXVObW93cGs5b3JlLzViZ0ZBMHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDA0MDYwCWZpbGU6RGVza09wc18xLjEuNF94NjQtc2V0dXAuZXhlCkMxdGJtTnRJS2VOazY5Q0M2bmg0aURzN3dTQTFQVmw3eEkyRUV5d1JtcFEwZ0VQRXFFbWZBUW9nYldlRlJHNlpJTFB2UGRqeGQ2RWNSTEtqZEJZNkNBPT0K",
+      "url": "https://github.com/sbti2010/DeskOps-releases/releases/download/v1.1.4/DeskOps_1.1.4_x64-setup.exe"
     }
   }
 }
