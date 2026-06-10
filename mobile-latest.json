@@ -4,12 +4,12 @@
     "minVersionCode":  1,
     "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.14/deskops-mobile.apk",
     "apkSha256":  "c35a6b819725375fd7b6835fd4c1ef659d61237d2767b8819fd68a5454a48ffd",
-    "notes":  "모바일 일정 상세에서 연동 회의록 클릭 시 이동 기능 추가",
-    "pubDate":  "2026-06-10T02:36:20Z",
+    "notes":  "모바일 회의록 AI 분석 실패 시 녹음 데이터 유실 방지 및 재시도 기능 추가",
+    "pubDate":  "2026-06-10T02:49:46Z",
     "web":  {
-                "bundleId":  "15.7",
-                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.14/web-bundle-15.7.zip",
-                "sha256":  "ced6adbde1a1c037b86dd9337706060bcc403116d01f7110fa9117614382f540",
+                "bundleId":  "15.8",
+                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.14/web-bundle-15.8.zip",
+                "sha256":  "0207325899e7f4afdcce5170d6583af5dd2c23ce297ea7eecad53867b9872f0e",
                 "minNativeVersionCode":  1
             }
 }
