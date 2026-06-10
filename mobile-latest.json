@@ -4,12 +4,12 @@
     "minVersionCode":  1,
     "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.14/deskops-mobile.apk",
     "apkSha256":  "c35a6b819725375fd7b6835fd4c1ef659d61237d2767b8819fd68a5454a48ffd",
-    "notes":  "일정-회의록 연동 표시 및 삭제 정책 개선 (모바일)",
-    "pubDate":  "2026-06-10T02:28:04Z",
+    "notes":  "모바일 일정 삭제 2차 컨펌 버튼 명칭 간소화 (예/아니오)",
+    "pubDate":  "2026-06-10T02:32:17Z",
     "web":  {
-                "bundleId":  "15.5",
-                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.14/web-bundle-15.5.zip",
-                "sha256":  "5ef6e31ea597868b06a89fc3e801f4e5298325ecd8b727bba737e33087bf3ec3",
+                "bundleId":  "15.6",
+                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.14/web-bundle-15.6.zip",
+                "sha256":  "09dc96d57e63dfef0a156964b9212b05d69c0ba4f0e4d335b977f8e21ae70665",
                 "minNativeVersionCode":  1
             }
 }
