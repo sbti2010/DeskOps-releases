@@ -1,11 +1,11 @@
 {
-  "version": "1.1.7",
-  "notes": "## DeskOps v1.1.7 \u8e42\u5bc3??\u044b\ube46\r\n\r\n- \u8e30\uafa7\ub807 ?\uc10f\uc819 \u8adb??\uae45\ub4ab \u5a9b\uc496\uaf51",
-  "pub_date": "2026-06-10T00:51:56Z",
+  "version": "1.1.8",
+  "notes": "## DeskOps v1.1.8 \u8e42\u5bc3??\u044b\ube46\r\n\r\n- \u8e30\uafa7\ub807 ?\uc10f\uc819 \u8adb??\uae45\ub4ab \u5a9b\uc496\uaf51",
+  "pub_date": "2026-06-10T01:06:51Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmh4N0FsTXc2RVQ4NWc1dUlCak5vZ2g2bW9uVkxucFFkcHJiOVdjR3Bma1lFR21wZ29abnpLeEE4czBYc1RQL1o4ZURJZlg5dHh2SlRxNjk4TnF1MDRsQVRNdm9vWGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDUyNzE1CWZpbGU6RGVza09wc18xLjEuN194NjQtc2V0dXAuZXhlCmZMdW5xbm14MVZjN1FVY2pyUnRUVmdkUStEcXVHM1dpWDVEdDAzTFRLR0Q4ZzhXeUhQbjNoa0daUUV6NFJiUmRSTWFuY1pyNSs4bGQydHZSZk4wRURBPT0K",
-      "url": "https://github.com/sbti2010/DeskOps-releases/releases/download/v1.1.7/DeskOps_1.1.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmh4N0FsTXc2RVNBYitXb21iZFd5VW9ob0NZeEJkQVJ1d0huREZqUjFsQW9Ocy9QUmhCd2RsMzdFUkNaaFdEZHlCWU1wVWNRVlZ1Q01QNkdCZjZPV2NDZHdFVC9XVXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDUzNjEwCWZpbGU6RGVza09wc18xLjEuOF94NjQtc2V0dXAuZXhlClBhVytaeCt1WXVvMDhrQzhaRi9WR1NDUGVpclk3Zm9na2pnWWNTY1FwZWMwL3BwTnVrVGpWT2cwT2trejhkbTVxRFFWL0F5VzVJS3dKcUJHaTA3RUJnPT0K",
+      "url": "https://github.com/sbti2010/DeskOps-releases/releases/download/v1.1.8/DeskOps_1.1.8_x64-setup.exe"
     }
   }
 }
