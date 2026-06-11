@@ -1,11 +1,11 @@
 {
-  "version": "1.1.22",
-  "notes": "## DeskOps v1.1.22 \ubcc0\uacbd\uc0ac\ud56d\r\n\r\n- \ud504\ub85c\uadf8\ub7a8 \uc2e4\ud589 \uc5d4\uc9c4\uc744 ShellExecuteW(\uc720\ub2c8\ucf54\ub4dc)\ub85c \uc804\uba74 \uad50\uccb4\r\n- \ud55c\uae00 \uacbd\ub85c \ud3ec\ud568 \ud504\ub85c\uadf8\ub7a8 \uc2e4\ud589 \ubc84\uadf8 \uc218\uc815\r\n- URL, \ud3f4\ub354, \uc2e4\ud589\ud30c\uc77c \ubaa8\ub450 ShellExecuteW\ub85c \ud1b5\ud569 \ucc98\ub9ac",
-  "pub_date": "2026-06-11T07:21:53Z",
+  "version": "1.1.23",
+  "notes": "## DeskOps v1.1.23 \ubcc0\uacbd\uc0ac\ud56d\r\n\r\n- Windows \ubc14\ud0d5\ud654\uba74 \ubcf4\uae30(Show Desktop) \uc2dc \uc571 \uc0ac\ub77c\uc9d0 \ubc29\uc9c0 \uac15\ud654 (DWM cloaking \uac10\uc9c0 + \uac15\uc81c \ubcf5\uad6c)\r\n- \ubc14\ub85c\uac00\uae30 \ud3f4\ub354\uadf8\ub8f9 \ud558\uc704 \ud56d\ubaa9 \ud074\ub9ad \uc2dc \uc2e4\ud589 \uc548 \ub418\ub358 \ubc84\uadf8 \uc218\uc815 (mousedown \uc774\ubca4\ud2b8 \ucda9\ub3cc \ud574\uacb0)\r\n- \ubc14\ub85c\uac00\uae30 \ud558\uc704 \ud56d\ubaa9 \ucd94\uac00 \uc2dc \ud504\ub85c\uadf8\ub7a8/URL \uc720\ud615 \uc120\ud0dd \uac00\ub2a5\ud558\ub3c4\ub85d \uac1c\uc120\r\n- \uae30\uc220\ub178\ud2b8 \uc5d0\ub514\ud130 \ud589\uac04\u00b7\uc790\uac04 \ucd95\uc18c, \uae00\uc790 \ud06c\uae30 \ubcc0\uacbd \uc2dc \ud589\uac04 \ube44\ub840 \uc870\uc815\r\n- \uae30\uc220\ub178\ud2b8 \uc5d0\ub514\ud130 \ubcf8\ubb38 \ubc15\uc2a4\uac00 \ud0dc\uadf8 \uc601\uc5ed\uacfc \uacb9\uce58\ub294 \uc624\ubc84\ud50c\ub85c \ubc84\uadf8 \uc218\uc815\r\n- \uae30\uc220\ub178\ud2b8 \ubaa9\ub85d(\u2022, 1.) \uae30\ud638 \ub4e4\uc5ec\uc4f0\uae30 \uc704\uce58 \uac1c\uc120 + \ub4e4\uc5ec\uc4f0\uae30/\ub0b4\uc5b4\uc4f0\uae30 \ubc84\ud2bc \ubc0f Tab\ud0a4 \uc9c0\uc6d0\r\n- \uae30\uc220\ub178\ud2b8 \ubbf8\ub9ac\ubcf4\uae30 \ud328\ub110 \uc11c\uc2dd(\ubaa9\ub85d\u00b7\ub4e4\uc5ec\uc4f0\uae30) \uc5d0\ub514\ud130\uc640 \ub3d9\uc77c\ud558\uac8c \ud1b5\uc77c\r\n- \uae30\uc220\ub178\ud2b8 \uce74\ub4dc\ubdf0\uc5d0\uc11c HTML \ud0dc\uadf8 \ub178\ucd9c \uc218\uc815 (\uc21c\uc218 \ud14d\uc2a4\ud2b8 \ud45c\uc2dc)",
+  "pub_date": "2026-06-11T08:54:36Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmh4N0FsTXc2RWZhTmFrbm5mTVZ6QXhTblFYenhaVjBkYVhUb0dxQzI2dVhMODZPQnhhM05CY3JNZ0NwcmdZQnlMcjVONFI0WVBkUG5VcWl4MVFodTRXclJ4MjlnMkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTYyNTExCWZpbGU6RGVza09wc18xLjEuMjJfeDY0LXNldHVwLmV4ZQpERWMvb3hDWDFFMXlBK0l2RlhxaEI4L0NXZDczeEZGZ1gveE5taXlHd1RoeUpLeDhONG9sYmxObW1wRmFzcGVVZmI1VGNhNmQrWkJqMlA4enhjTUVDZz09Cg==",
-      "url": "https://github.com/sbti2010/DeskOps-releases/releases/download/v1.1.22/DeskOps_1.1.22_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmh4N0FsTXc2RVhPUXpsWTVkQXl1amtnNG9Md2VndjJVR3pmLzU3djd6YmRTdmk3cnlPa25HeFFIbm1pM0RPcWpRZGZEUFh2UXUrNXl5TlpGbU9kdWZqYXErTTJjZEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTY4MDc0CWZpbGU6RGVza09wc18xLjEuMjNfeDY0LXNldHVwLmV4ZQpIUGYvcnZPVnZaaGZkMDE0VmNnQWw4WjRsaVk1OVNIeFdpWnBZeXl3OHVmUUJIUWhmOHQ0KzFEaVduUGI4M1hKdTJWOWg0SVdnYlN4cTdwT3V0TkNEQT09Cg==",
+      "url": "https://github.com/sbti2010/DeskOps-releases/releases/download/v1.1.23/DeskOps_1.1.23_x64-setup.exe"
     }
   }
 }
