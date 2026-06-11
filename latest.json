@@ -1,11 +1,11 @@
 {
-  "version": "1.1.17",
-  "notes": "## DeskOps v1.1.17 \ubcc0\uacbd\uc0ac\ud56d\r\n\r\n- Quick Launch \uc124\uc815 \ud328\ub110 \ud074\ub9ad \ubc84\uadf8 \uc218\uc815 (\uc218\uc815/\uc0ad\uc81c \ubc84\ud2bc \ud074\ub9ad \ubd88\uac00 \ud574\uacb0)\r\n- \uc124\uc815 \ud328\ub110\uc744 fixed \uc704\uce58\ub85c \ubcc0\uacbd\ud558\uc5ec overflow \uc601\uc5ed \ubc16\uc5d0\uc11c \ub80c\ub354\ub9c1\r\n- \ud328\ub110 \ubc14\uae65 \ud074\ub9ad \uc2dc \uc790\ub3d9 \ub2eb\ud798 \uae30\ub2a5 \ucd94\uac00",
-  "pub_date": "2026-06-11T03:55:28Z",
+  "version": "1.1.18",
+  "notes": "## DeskOps v1.1.18 \ubcc0\uacbd\uc0ac\ud56d\r\n\r\n- Quick Launch \uc124\uc815 \ud328\ub110 \ub4dc\ub798\uadf8 \uc564 \ub4dc\ub86d \uc21c\uc11c \ubcc0\uacbd \uae30\ub2a5 \ucd94\uac00\r\n- \uc2e4\ud589\ud30c\uc77c \uc544\uc774\ucf58 \uc790\ub3d9 \ucd94\ucd9c \uae30\ub2a5 (exe/\uba85\ub839\uc5b4\uc758 \uc2e4\uc81c \uc544\uc774\ucf58 \ud45c\uc2dc)\r\n- \uc124\uc815 \ubaa8\ub2ec\uc5d0\uc11c \uc544\uc774\ucf58 \ucd94\ucd9c/\uae30\ubcf8 \uc544\uc774\ucf58 \uc804\ud658 \ubc84\ud2bc \ucd94\uac00\r\n- \uc124\uc815 \ud328\ub110 \ud074\ub9ad \ubc84\uadf8 \uc218\uc815 (fixed \uc704\uce58 + \uc624\ubc84\ub808\uc774)",
+  "pub_date": "2026-06-11T04:33:46Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmh4N0FsTXc2RVorTXkrMkxlbUNBMER2UTJ4NW9wQXFpVVFoaXozL3RMckwvNVdkS0p3elc5bkFxd1pKcituQllVc0puVzV0bWRYS1pnMGxUdUxUaFlNR0ttMit2ZVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTUwMTI3CWZpbGU6RGVza09wc18xLjEuMTdfeDY0LXNldHVwLmV4ZQo4eDdHRWhrY05ySlJCZDE2alNKYzJabjRuRS9zZE1PeEVQak9DV3RJYTIwdU13ZzhnRU5kZkgvY0pFdWJYcVlDb2pQdHJLdDNnS0prZlZhNUZjeFpEUT09Cg==",
-      "url": "https://github.com/sbti2010/DeskOps-releases/releases/download/v1.1.17/DeskOps_1.1.17_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmh4N0FsTXc2RVcvb0R4VVpROTQwTk9qYXkzVTlRQkpkeG5BWUozcWM0YS8rcDE0RlNVSDhxZTRrTHRXQzlubmkvVkhGc2hpM25hZmNFN3ZjcS82UHNOOWVycElkcVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTUyNDI0CWZpbGU6RGVza09wc18xLjEuMThfeDY0LXNldHVwLmV4ZQpBaWRIY2EveXVkWktSMUVYWmVvMHdiWkJPWVRXbTZXalBWc1Vsa3BwSkRlazZCeHpFbXFid1IxQ0RSWEMvcWZUWS9RVkpLdkl0OUxZRlBBTDNFQXhDdz09Cg==",
+      "url": "https://github.com/sbti2010/DeskOps-releases/releases/download/v1.1.18/DeskOps_1.1.18_x64-setup.exe"
     }
   }
 }
