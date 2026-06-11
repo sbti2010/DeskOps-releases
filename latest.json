@@ -1,11 +1,11 @@
 {
-  "version": "1.1.24",
-  "notes": "## DeskOps v1.1.24 \ubcc0\uacbd\uc0ac\ud56d\r\n\r\n- \uc6b4\ub3d9/\ud5ec\uc2a4 \uad00\ub9ac\uc6a9 DB \ud14c\uc774\ube14 \uc790\ub3d9 \uc0dd\uc131 (health_exercises, health_body, health_routines)\r\n- \ubaa8\ubc14\uc77c \uc571 \uc6b4\ub3d9 \uae30\ub85d\u00b7\uc2e0\uccb4 \uae30\ub85d\u00b7\ub8e8\ud2f4 \uae30\ub2a5 \uc5f0\ub3d9\uc744 \uc704\ud55c \uc2a4\ud0a4\ub9c8 \ub9c8\uc774\uadf8\ub808\uc774\uc158 \ucd94\uac00",
-  "pub_date": "2026-06-11T09:49:54Z",
+  "version": "1.1.25",
+  "notes": "## DeskOps v1.1.25 \ubcc0\uacbd\uc0ac\ud56d\r\n\r\n- \ubc14\ub85c\uac00\uae30(Quick Launch) \uc800\uc7a5\uc18c\ub97c DB\uc5d0\uc11c PC \ub85c\uceec(localStorage)\ub85c \ubcc0\uacbd \u2014 PC\ubcc4 \ub3c5\ub9bd \uad00\ub9ac\r\n- \ubc14\ub85c\uac00\uae30 \uc544\uc774\ucf58 \ud06c\uae30 \ud655\ub300 (\ubc84\ud2bc \ud06c\uae30 \uc720\uc9c0, \ub0b4\ubd80 \uc544\uc774\ucf58\ub9cc \ud0a4\uc6c0)",
+  "pub_date": "2026-06-11T13:13:16Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmh4N0FsTXc2RWVnTGs4UzBNRk1seTFuRExkTy9uL1hhbEhJYUtZSHd5Kzl4bk1XUnRXZEoxNUZEQUYraWRrOUVFOGtUV3F2NkZ5TzlhTEp0SS82c2V2S2w4NkN1UHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTcxMzkyCWZpbGU6RGVza09wc18xLjEuMjRfeDY0LXNldHVwLmV4ZQpVT1RRUE1TT21kOXZsU0ZLRkQ5NnNoNHJ1L1ZQUVl2VVdkNkJoMHM2d2laQ29qL0JYbnlmalpER1BXSS8vSnNnU0E0VVpqVWs3U0VvU1N3UjJNcW1BQT09Cg==",
-      "url": "https://github.com/sbti2010/DeskOps-releases/releases/download/v1.1.24/DeskOps_1.1.24_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmh4N0FsTXc2RVVyTlU0K2dYb1dwQXhleC9HUm85dnJYYitFUERnQno3Z1FkZUJLTlh3eUNXTlk3QUNMMTNhL2RpeGxIOWRQUWtsVU85V1BvajJGK09ORzFNVm5tMmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTgzNTk0CWZpbGU6RGVza09wc18xLjEuMjVfeDY0LXNldHVwLmV4ZQp1MnhzL3djdy9RbkpZN1hNdzJCaWkwZDlyakw2a3hSZDF4NTMzQ09tNjlHb3p2dVRwWUo3VG53VVJQOTZBaUJReDJMQmVYREZhMmNIeVhGTXM3Q3JDZz09Cg==",
+      "url": "https://github.com/sbti2010/DeskOps-releases/releases/download/v1.1.25/DeskOps_1.1.25_x64-setup.exe"
     }
   }
 }
