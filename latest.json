@@ -1,11 +1,11 @@
 {
-  "version": "1.1.20",
-  "notes": "## DeskOps v1.1.20 \ubcc0\uacbd\uc0ac\ud56d\r\n\r\n- Quick Launch \uc124\uc815 \ud328\ub110 \ud06c\uae30 \ud655\ub300 (max-height: 70vh)\r\n- \ud3f4\ub354 \uadf8\ub8f9 \uc811\uae30/\ud3bc\uce58\uae30 \ud1a0\uae00 \ucd94\uac00 (\u25b6/\u25bc \ubc84\ud2bc\uc73c\ub85c \ud558\uc704 \ud56d\ubaa9 \ud45c\uc2dc \uc81c\uc5b4)",
-  "pub_date": "2026-06-11T06:16:51Z",
+  "version": "1.1.21",
+  "notes": "## DeskOps v1.1.21 \ubcc0\uacbd\uc0ac\ud56d\r\n\r\n- \ud3f4\ub354 \uadf8\ub8f9 \ud31d\uc5c5 \ub80c\ub354\ub9c1 \ubc29\uc2dd \uc804\uba74 \uc218\uc815 (querySelector \u2192 \ud074\ub9ad \uc88c\ud45c \uae30\ubc18)\r\n- \ud3f4\ub354 \ud558\uc704 \ubc14\ub85c\uac00\uae30 \ud074\ub9ad \uc2e4\ud589 \ubc84\uadf8 \uc218\uc815\r\n- \ud3f4\ub354 \ud31d\uc5c5 \uc704\uce58 \uc815\ud655\ub3c4 \uac1c\uc120",
+  "pub_date": "2026-06-11T06:51:50Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmh4N0FsTXc2RVRHKzRVbEh6akd6cVNoUjQ4bk1hMFh4UWwwc0VXdFhJWVA0QkJQUlNUSlpjYmM2VEMzWWtSbnRhZE1EWFZjczA4akdnL05vNkFnZlcwem9PM1lUb3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTU4NjA5CWZpbGU6RGVza09wc18xLjEuMjBfeDY0LXNldHVwLmV4ZQpIV0tFd1RtL1AvbTFUUytocWM3K1V0ZzEvVVM5VVliTG5YUS9ueDlDNTdMbjFhTisyelcyTG5hQW1VV1dFUVNUVitFS2pVWlZBNGFPTW5vc1Z0SnFCQT09Cg==",
-      "url": "https://github.com/sbti2010/DeskOps-releases/releases/download/v1.1.20/DeskOps_1.1.20_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbmh4N0FsTXc2RWZlMzNoOGxUSWxKVDY1OE15NzRtcEpGWGFJdW00dWhxMzB0NUo2bnllbmV2d1hEcFlqN2lpMElhdVQ0U3lGMnQvZGdUeWl3eCtnL2J2OTYxbUZvdnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTYwNzA4CWZpbGU6RGVza09wc18xLjEuMjFfeDY0LXNldHVwLmV4ZQpBNjQzbHhBT3d0NlFuZWgxeWVWQmRlay8rRkJJV1FYdnRmNnRjeEtRelRKekNkV2dlbFFMRisrSDFkNGVadnp5aS9JRTRJemVZMHlOeU9TWGl5RmRDUT09Cg==",
+      "url": "https://github.com/sbti2010/DeskOps-releases/releases/download/v1.1.21/DeskOps_1.1.21_x64-setup.exe"
     }
   }
 }
