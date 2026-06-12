@@ -4,12 +4,12 @@
     "minVersionCode":  1,
     "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.14/deskops-mobile.apk",
     "apkSha256":  "c35a6b819725375fd7b6835fd4c1ef659d61237d2767b8819fd68a5454a48ffd",
-    "notes":  "운동 화면 FAB 버튼 크기/줄바꿈 수정, 타이머 시간 크게, 종료 팝업 투명도 수정",
-    "pubDate":  "2026-06-11T10:02:42Z",
+    "notes":  "- ?대쾲 二??쇱젙: 理쒖떊 ?쇱젙???곷떒???쒖떆?섎룄濡??뺣젹 蹂寃?- ?대쾲 二??쇱젙: ?좎쭨 ?쒖떆瑜?\"N?????? ????좎쭨+?붿씪(?? 6/12(紐?)濡?蹂寃?",
+    "pubDate":  "2026-06-12T13:22:31Z",
     "web":  {
-                "bundleId":  "15.11",
-                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.14/web-bundle-15.11.zip",
-                "sha256":  "227b7e4c35d2350c0443eca3bf921be9d3367dd659bd8962089395cd2212e0f6",
+                "bundleId":  "15.12",
+                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.14/web-bundle-15.12.zip",
+                "sha256":  "5ba00db8ea7e31db44178770c2043045634848fb27382c3ec8e1adc3ce2efd2b",
                 "minNativeVersionCode":  1
             }
 }
