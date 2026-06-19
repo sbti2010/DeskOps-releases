@@ -1,15 +1,15 @@
 {
-    "nativeVersion":  "1.0.14",
-    "nativeVersionCode":  15,
+    "nativeVersion":  "1.0.15",
+    "nativeVersionCode":  16,
     "minVersionCode":  1,
-    "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.14/deskops-mobile.apk",
-    "apkSha256":  "c35a6b819725375fd7b6835fd4c1ef659d61237d2767b8819fd68a5454a48ffd",
+    "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.15/deskops-mobile.apk",
+    "apkSha256":  "53777e65633b6069429c1ec26092d27d0d41300db742f12310ee3d86026add8d",
     "notes":  "- ?ㅽ듃?뚰겕 ?먯궛 留덉뒪???⑥뒪?뚮뱶 ?좉툑 ?붾㈃ 異붽?\n- ?ㅽ듃?뚰겕 ?먯궛 鍮꾨?踰덊샇 蹂닿린/蹂듭궗 湲곕뒫 異붽? (30珥????먮룞 ?④?)\n- ?좉툑 ?붾㈃ ?⑥뒪?뚮뱶 蹂닿린/?④린湲??좉? 異붽?",
-    "pubDate":  "2026-06-19T10:07:05Z",
+    "pubDate":  "2026-06-19T10:33:22Z",
     "web":  {
-                "bundleId":  "15.19",
-                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.14/web-bundle-15.19.zip",
-                "sha256":  "70225a5c91aee0a0c8d67f771bb664e3f021a0c049981c57aac9bd6787fef7bd",
+                "bundleId":  "16.0",
+                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.15/web-bundle-16.0.zip",
+                "sha256":  "9285b53a60aed62c2c9a97c03046ad695b2268c5c11692f4c1075565214b8d12",
                 "minNativeVersionCode":  1
             }
 }
