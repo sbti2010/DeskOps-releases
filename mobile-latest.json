@@ -1,15 +1,15 @@
 {
     "pubDate":  "2026-06-21T00:00:00Z",
     "minVersionCode":  1,
-    "apkSha256":  "c8a16be7db1d55fe2b4e95b2c80bdbd626c72ec1ae6db404bbb2c758179d6ff8",
-    "nativeVersionCode":  27,
-    "nativeVersion":  "1.0.26",
-    "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.26/app-release.apk",
-    "notes":  "- 기간일정 제목 수직 정렬 수정",
+    "apkSha256":  "bb89eee767266bd0f5442132d728d17847e4eae59c943df5f3f20b2e6565efb2",
+    "nativeVersionCode":  28,
+    "nativeVersion":  "1.0.27",
+    "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.27/app-release.apk",
+    "notes":  "- 기간일정 제목 수직 위치 수정 (바 중앙 정렬)\n- 단일 일정 위치 복구",
     "web":  {
-                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.26/web-bundle-27.0.zip",
-                "bundleId":  "27.0",
-                "sha256":  "0730fae8f19fba9dc722fdff41dd90d9b4741860de456d013d13a6f2b78dcd5d",
-                "minNativeVersionCode":  27
+                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.27/web-bundle-28.0.zip",
+                "bundleId":  "28.0",
+                "sha256":  "c11261fa2b5ba5eb9af6ca2aed8b1fda7333e49494b954e71cff7ce3cfdf5884",
+                "minNativeVersionCode":  28
             }
 }
