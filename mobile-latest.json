@@ -1,15 +1,1 @@
-{
-    "nativeVersion":  "1.0.19",
-    "nativeVersionCode":  20,
-    "minVersionCode":  1,
-    "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.19/deskops-mobile.apk",
-    "apkSha256":  "d7aa82e8780d2fa1f4f1e743d8b23ef27a16370499fc068c19aeadbf9c50adf3",
-    "notes":  "- ?ㅽ듃?뚰겕 ?먯궛 留덉뒪???⑥뒪?뚮뱶 ?좉툑 ?붾㈃ 異붽?\n- ?ㅽ듃?뚰겕 ?먯궛 鍮꾨?踰덊샇 蹂닿린/蹂듭궗 湲곕뒫 異붽? (30珥????먮룞 ?④?)\n- ?좉툑 ?붾㈃ ?⑥뒪?뚮뱶 蹂닿린/?④린湲??좉? 異붽?",
-    "pubDate":  "2026-06-19T15:56:19Z",
-    "web":  {
-                "bundleId":  "20.0",
-                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.19/web-bundle-20.0.zip",
-                "sha256":  "78ff93c29504807e690ce0754ab8787d3f85890090a91ee8b598d5e1384e47c6",
-                "minNativeVersionCode":  1
-            }
-}
+{"nativeVersion":"1.0.20","nativeVersionCode":21,"minVersionCode":1,"apkUrl":"https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.20/deskops-mobile.apk","apkSha256":"e3fb29ccee6472b4b7826c87675d9a7e4bfa7cc141d5e8cad715f3910a3e51ca","notes":"- 위젯 전체 폰트 크기 확대","pubDate":"2026-06-21T00:00:00Z","web":{"bundleId":"20.0","url":"https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.19/web-bundle-20.0.zip","sha256":"78ff93c29504807e690ce0754ab8787d3f85890090a91ee8b598d5e1384e47c6","minNativeVersionCode":1}}
