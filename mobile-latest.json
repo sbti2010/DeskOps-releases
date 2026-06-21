@@ -1,1 +1,15 @@
-{"nativeVersion":"1.0.25","nativeVersionCode":26,"minVersionCode":1,"apkUrl":"https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.25/app-release.apk","apkSha256":"e9f8cd11a5e4cf52d23b44571f7a9b2cce642ba5801f4defd26635b05f3686a6","notes":"- 위젯 홈화면 폰트 조정","pubDate":"2026-06-21T00:00:00Z","web":{"bundleId":"26.0","url":"https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.25/web-bundle-26.0.zip","sha256":"57b1d4297a76973b5a89fd0ece142ad65a30cacc135d5590315effd475c9b4e1","minNativeVersionCode":26}}
+{
+    "pubDate":  "2026-06-21T00:00:00Z",
+    "minVersionCode":  1,
+    "apkSha256":  "c8a16be7db1d55fe2b4e95b2c80bdbd626c72ec1ae6db404bbb2c758179d6ff8",
+    "nativeVersionCode":  27,
+    "nativeVersion":  "1.0.26",
+    "apkUrl":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.26/app-release.apk",
+    "notes":  "- 기간일정 제목 수직 정렬 수정",
+    "web":  {
+                "url":  "https://github.com/sbti2010/DeskOps-releases/releases/download/mobile-v1.0.26/web-bundle-27.0.zip",
+                "bundleId":  "27.0",
+                "sha256":  "0730fae8f19fba9dc722fdff41dd90d9b4741860de456d013d13a6f2b78dcd5d",
+                "minNativeVersionCode":  27
+            }
+}
